@@ -1,5 +1,7 @@
 Nella speranza di aver fatto cosa gradita, ho pensato di personalizzare il contenuto della pagina web con un argomento di 
 mio interesse, attenendomi comunque alle conoscenze apprese a lezione e durante le esercitazioni di laboratorio.
+Homework XHTML/CSS di Stefano Parente matricola 1574482. L'indirizzo del mio repository Github è 
+https://github.com/spar-git/stefano.parente.XHTML_CSS
 
 La pagina web "Pagina iniziale.html" si compone di alcuni files: 
 - un documento per le regole di stile;
